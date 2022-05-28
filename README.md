@@ -34,7 +34,7 @@
 > 에자일/스크럼 개발 프로세스로 효율적으로 일하자.
 
 ## Carrer
-### 금융권 소프트웨어 배포&업데이트 서비스 풀스택 개발
+### 소프트웨어 배포&업데이트 서비스 풀스택 개발
 - 프로젝트 전체 기능 4+1 View(Logical, Physical,Process, Development +Scenario) 설계 및 요구사항 명세
 - 소프트웨어 및 패키지 관점 백엔드 RESTful API 개발, RDB Schema 정의
 - 필요에 따른 AOP(Aspect Oriented Programming) 개발
@@ -55,17 +55,22 @@
 - BootStrap 으로 구현된 프론트엔드 신규 페이지 구현 및 유지보수
 - JUnit을 사용한 유닛 테스트 개발
 ------------
-### 금융권 보안 솔루션 기능 고도화 개발
-- 국민은행/카드 모든 영업점에서 운영 중이던 Windows7 솔루션을 Window10 환경으로 포팅
+### 금융권 보안 솔루션 신규 개발
 - Windows 10 커스텀 인증 시스템(Windows Credential Provider V2) 모듈 신규 개발
 - Windows 10 커스텀 인증 시스템에 추가 인증 수단 구현
 -- PKI (인증서)인증, FIDO (지문, 홍채)인증, OTP 인증
 - Windows 10 커스텀 인증 시스템을 이용한 SSO(Single Sign On)데스크톱 개발
-- 필요에 따른 부가적인 비지니스 모듈 구현
-  - Windows 서비스 프로그램,  Windows 어플리케이션 개발
-- 레거시 정리 및 청산, 신규 모듈 대체 개발
+- SSO(Single Sign On)서버와의 통신 모듈 추상화
+- 필요에 따라 COM/ActiveX 를 이용해 부가적인 비지니스 모듈 구현
 - Jenkins 빌드/테스트/배포 자동화 구축
 - GTest 을 사용한 UnitTest 정의 및 작성
+------------
+### 금융권 보안 레거시 솔루션 포팅
+- 국민은행/카드 모든 영업점에서 운영 중이던 Windows7 솔루션을 Window10 환경으로 포팅
+- Visual Studio 6.0 으로 빌드된 모든 바이너리들을 Visual Studio 2015로 포팅
+- GTest UnitTest 환경 구축, 기존 코드 TestCase 적용, TestCase로 포팅 검증
+- 패키징 스템 정리 및 최소화, Jenkins 자동 빌드 적용
+- 레거시 정리 및 청산, 신규 모듈 대체 개발
 ------------
 ### 금융권 PKI 인프라 유지보수 및 개발
 - 국민은행 PKI 인프라 유지보수 및 개발
