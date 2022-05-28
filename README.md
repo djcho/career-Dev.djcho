@@ -2,15 +2,14 @@
 
 ## 조대준  
 
-#### Software Developer 
-
+### Software Developer 
 **1987.10.04**  
-email - djcho@gmail.com  
-github - http://github.com/djcho
-blog - https://blog.naver.com/djcho
+email - djcho@gmail.com \
+github - http://github.com/djcho \
+blog - https://blog.naver.com/djcho \
 
 ### Technical Skills
-https://shields.io/badge/C-004880?style=flat&logo=C&logoColor=A8B9CC&nbsp;
+![C](https://shields.io/badge/C-004880?style=flat&logo=C&logoColor=A8B9CC&nbsp);&nbsp;
 ![C++](https://shields.io/badge/C%2B%2B-004880?style=flat&logo=C%2B%2B&logoColor=FFFFFF)&nbsp;
 ![C#](https://shields.io/badge/C%23-004880?style=flat&logo=csharp&logoColor=239120)&nbsp;
 ![Java](https://shields.io/badge/Java-004880?style=flat&logo=Java&logoColor=FFFFFF)&nbsp;\
@@ -32,11 +31,9 @@ https://shields.io/badge/C-004880?style=flat&logo=C&logoColor=A8B9CC&nbsp;
 ------------
 
 ------------
->안녕하세요. 8년 차 경력의 코드 깎는 장인이 되고 싶은 C/C++,C#,Java 개발자입니다.
-저는 주로 금융권에서 사용하는 소프트웨어 및 모듈들을 다양한 언어로 개발하고 유지보수 해왔습니다. 다양한 언어를 경험하면서 새로운 언어들을 습득하는 것에 대한 거부감이나 진입장벽은 크게 느끼지 않게 되었고, 무엇보다도 소프트웨어 개발에서의 중대사는 `무엇으로 구현하는가?`가 아닌 `어떻게 구현할 것인가?`라는 것을 배웠습니다.
-
-금융권 소프트웨어들은 버그에 민감한 만큼 자연스레 코드 퀄리티가 곧 소프트웨어의 안정성으로 직결되며 품질 좋은 소프트웨어의 초석이 된다는 개발 가치관을 정립했습니다. 당장 기능 구현으로 코드와 타협하기보다는 순간마다 다양한 선택지에서 어떤 코드가 최선의 코드인지, 좀 더 좋은 가독성, 좀 더 직관적인 구조를 위해 고민합니다. 어떠한 이유로도 타협된 코드는 항상 미래의 팀원과 나를 힘들게 한다는 걸 잘 알고 있습니다.
-
+> 안녕하세요. 8년 차 경력의 코드 깎는 장인이 되고 싶은 C/C++,C#,Java 개발자입니다.\
+저는 주로 금융권에서 사용하는 소프트웨어 및 모듈들을 다양한 언어로 개발하고 유지보수 해왔습니다. 다양한 언어를 경험하면서 새로운 언어들을 습득하는 것에 대한 거부감이나 진입장벽은 크게 느끼지 않게 되었고, 무엇보다도 소프트웨어 개발에서의 중대사는 `무엇으로 구현하는가?`가 아닌 `어떻게 구현할 것인가?`라는 것을 배웠습니다.\
+금융권 소프트웨어들은 버그에 민감한 만큼 자연스레 코드 퀄리티가 곧 소프트웨어의 안정성으로 직결되며 품질 좋은 소프트웨어의 초석이 된다는 개발 가치관을 정립했습니다. 당장 기능 구현으로 코드와 타협하기보다는 순간마다 다양한 선택지에서 어떤 코드가 최선의 코드인지, 좀 더 좋은 가독성, 좀 더 직관적인 구조를 위해 고민합니다. 어떠한 이유로도 타협된 코드는 항상 미래의 팀원과 나를 힘들게 한다는 걸 잘 알고 있습니다.\
 코드 개선뿐만 아니라 업무 프로세스나 개발 문화 개선에도 적극적입니다. 약 4년 동안 Agile/Scrum을 안정적으로 운영할 수 있도록 조직을 개선하였고 주기적인 상호 코드리뷰를 제안하여 조직 문화로 자리 잡을 수 있도록 하였습니다.
 ------------
 
