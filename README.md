@@ -1,4 +1,3 @@
-<img src="https://img.shields.io/badge/Porfoilo-Docs-blue"/>
 ![https://komarev.com/ghpvc/?username=djcho](https://komarev.com/ghpvc/?username=djcho)
 
 # Portfolio-Dev.djcho
