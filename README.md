@@ -4,9 +4,9 @@
 
 ### Software Developer 
 **1987.10.04**  
-email - djcho@gmail.com \
-github - http://github.com/djcho \
-blog - https://blog.naver.com/djcho
+:page_facing_up:&nbsp;email - djcho@gmail.com \
+:page_facing_up:&nbsp;github - http://github.com/djcho \
+:page_facing_up:&nbsp;blog - https://blog.naver.com/djcho
 
 ### Technical Skills
 ![C](https://shields.io/badge/C-004880?style=flat&logo=C&logoColor=A8B9CC&nbsp)&nbsp;
