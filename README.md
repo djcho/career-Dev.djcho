@@ -60,7 +60,7 @@ blog - https://blog.naver.com/djcho
 -- PKI (인증서)인증, FIDO (지문, 홍채)인증, OTP 인증
 - Windows 10 커스텀 인증 시스템을 이용한 SSO(Single Sign On)데스크톱 개발
 - 필요에 따른 부가적인 비지니스 모듈 구현
-  > Windows 서비스 프로그램,  Windows 어플리케이션 개발
+  - Windows 서비스 프로그램,  Windows 어플리케이션 개발
 - 레거시 정리 및 청산, 신규 모듈 대체 개발
 - Jenkins 빌드/테스트/배포 자동화 구축
 - GTest 을 사용한 UnitTest 정의 및 작성
