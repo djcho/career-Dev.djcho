@@ -35,19 +35,25 @@
 
 ## Carrer
 ### 소프트웨어 배포&업데이트 서비스 풀스택 개발
-- 프로젝트 전체 기능 4+1 View(Logical, Physical,Process, Development +Scenario) 설계 및 요구사항 명세
-- 소프트웨어 및 패키지 관점 백엔드 RESTful API 개발, RDB Schema 정의
-- 필요에 따른 AOP(Aspect Oriented Programming) 개발
-- Spring Security 및 Jwt Token 을 사용하여 사용자 인증 기능 개발
-- 비즈니스 Service 모듈 설계 및 개발
-- JPA 를 이용한 효율적인 DB접근과 Entity 활용
-- JUnit을 사용한 유닛 테스트 개발
-- Swagger를 적용하여 API 테스트
-- React를 사용한 SPA 프론트 엔드 웹 관리도구 개발
-- 로그인, 대시보드 , 사용자 정보, 로그 조회 등 페이지 개발
-- BootStrap 를 이용한 UI/UX 디자인
-- 백엔드 서버와의 Ajax 데이터 통신 개발
+- 윈도우 환경에서 사용되는 일반 사용자용 프로그램의 설치/자동 업데이트 서비스 개발
+- 프로젝트 전체 기능 4+1 View(Logical, Physical,Process, Development + Scenario) 설계 및 요구사항 명세
 - Docker 컨테이너 테스트 환경 구성
+#### 클라이언트 에이전트 프로그램 개발
+- 서버에 설정된 정책 폴링 시스템 개발
+- 소프트웨어 설치/업데이트 작업 큐 시스템 개발
+- 클라이언트 자체 업데이트 기능 개발
+#### 백엔드 서버 개발
+- RESTful API 개발, RDB Schema 정의
+- 사용자 IP 그룹별 정책 설정 시스템 개발
+- Spring Security, Jwt Token 을 사용하여 사용자 인증 기능 구현
+- JPA 를 이용한 효율적인 DB접근과 Entity 활용
+- JUnit을 사용한 UnitTest 개발
+- Swagger를 적용하여 API 테스트
+#### 프론트 엔드 서버 개발
+- React를 사용한 SPA 프론트 엔드 웹 관리도구 개발
+  - 로그인, 대시보드 , 사용자 정보, 로그 조회 등 페이지 개발
+- BootStrap 를 이용한 UI/UX 디자인 적용
+- 백엔드 서버와의 Ajax 데이터 통신 개발
 ------------
 ### SSO(Single Sign On) 솔루션 백엔드 유지보수 및 개발
 - Appliance 장비에 설치되어 구동되는 SSO 백엔드 서버 유지보수
@@ -58,7 +64,7 @@
 ### 금융권 보안 솔루션 신규 개발
 - Windows 10 커스텀 인증 시스템(Windows Credential Provider V2) 모듈 신규 개발
 - Windows 10 커스텀 인증 시스템에 추가 인증 수단 구현
--- PKI (인증서)인증, FIDO (지문, 홍채)인증, OTP 인증
+  - PKI (인증서)인증, FIDO (지문, 홍채)인증, OTP 인증
 - Windows 10 커스텀 인증 시스템을 이용한 SSO(Single Sign On)데스크톱 개발
 - SSO(Single Sign On)서버와의 통신 모듈 추상화
 - 필요에 따라 COM/ActiveX 를 이용해 부가적인 비지니스 모듈 구현
