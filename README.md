@@ -4,7 +4,7 @@
 
 ## 조대준  
 
-### Software Developer 
+### Software Developer ![https://komarev.com/ghpvc/?username=djcho](https://komarev.com/ghpvc/?username=djcho)
 **1987.10.04**  
 :page_facing_up:&nbsp;email - djcho@gmail.com \
 :page_facing_up:&nbsp;github - http://github.com/djcho \
