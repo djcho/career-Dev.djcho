@@ -9,10 +9,8 @@ email - djcho@gmail.com
 github - http://github.com/djcho
 blog - https://blog.naver.com/djcho
 
-### 🛠 &nbsp;Technical Skills
-
-
-![C](https://shields.io/badge/C-004880?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+### Technical Skills
+https://shields.io/badge/C-004880?style=flat&logo=C&logoColor=A8B9CC&nbsp;
 ![C++](https://shields.io/badge/C%2B%2B-004880?style=flat&logo=C%2B%2B&logoColor=FFFFFF)&nbsp;
 ![C#](https://shields.io/badge/C%23-004880?style=flat&logo=csharp&logoColor=239120)&nbsp;
 ![Java](https://shields.io/badge/Java-004880?style=flat&logo=Java&logoColor=FFFFFF)&nbsp;\
