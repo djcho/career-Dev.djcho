@@ -1,5 +1,3 @@
-![https://komarev.com/ghpvc/?username=djcho](https://komarev.com/ghpvc/?username=djcho)
-
 # Portfolio-Dev.djcho
 
 ## 조대준  
