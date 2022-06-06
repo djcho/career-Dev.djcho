@@ -34,7 +34,7 @@
 
 > 에자일/스크럼 개발 프로세스로 효율적으로 일하자.
 
-## Carrer
+## Career
 ### 소프트웨어 배포&업데이트 서비스 풀스택 개발
 - 윈도우 환경에서 사용되는 일반 사용자용 프로그램의 설치/자동 업데이트 서비스 개발
 - 프로젝트 전체 기능 4+1 View(Logical, Physical,Process, Development + Scenario) 설계 및 요구사항 명세
